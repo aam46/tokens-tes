@@ -4,9 +4,9 @@
 
 :root {
   --sd-bule-50: #4a64ff;
-  --sd-bule-60: #364bdb;
+  --sd-bule-60: #39901c;
   --sd-bule-80: #172393;
-  --sd-yellow-50: #f68718;
+  --sd-yellow-50: #e79a9a;
   --sd-yellow-60: #d36811;
   --sd-yellow-70: #b14e0c;
   --sd-red-50: #e93426;
@@ -16,29 +16,4 @@
   --sd-size-sm: 4;
   --sd-size-md: 8;
   --sd-size-lg: 16;
-  --sd-color-primary-default: #364bdb;
-  --sd-color-primary-hover: #172393;
-  --sd-color-secondary-default: #d36811;
-  --sd-color-secondary-hover: #b14e0c;
-  --sd-color-alert-info: #4a64ff;
-  --sd-color-alert-success: #4fb19d;
-  --sd-color-alert-danger: #e93426;
-  --sd-color-alert-warning: #f68718;
-  --sd-color-neutral-primary: #16171b;
-  --sd-color-neutral-secondary: #404040;
-  --sd-radius-sm: 4;
-  --sd-radius-md: 8;
-  --sd-radius-lg: 16;
-  --sd-padding-left: 16;
-  --sd-padding-right: 16;
-  --sd-padding-top: 8;
-  --sd-padding-bottom: 8;
-  --sd-button-primary-default-bg: #364bdb;
-  --sd-button-primary-hover-bg: #172393;
-  --sd-button-primary-text: #ffffff;
-  --sd-button-radius: 4;
-  --sd-button-padding-left: 16;
-  --sd-button-padding-right: 16;
-  --sd-button-padding-top: 8;
-  --sd-button-padding-bottom: 8;
 }
